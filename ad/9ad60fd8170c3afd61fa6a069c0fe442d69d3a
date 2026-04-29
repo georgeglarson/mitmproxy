@@ -1,0 +1,43 @@
+test/mitmproxy/proxy/layers/http/test_http.py
+  bfc5406dbe7283ff 17,1349-1390
+mitmproxy/proxy/layers/udp.py
+  bfc5406dbe7283ff 92-97,99-106,143-148
+test/mitmproxy/addons/test_proxyserver.py
+  bfc5406dbe7283ff 166-179
+mitmproxy/flow.py
+  bfc5406dbe7283ff 233-236,243-256
+mitmproxy/proxy/layers/tcp.py
+  bfc5406dbe7283ff 93-98,100-110,157-162
+mitmproxy/addons/proxyserver.py
+  bfc5406dbe7283ff 315,335-348
+mitmproxy/proxy/server_hooks.py
+  bfc5406dbe7283ff 5,78-90
+mitmproxy/proxy/layers/http/__init__.py
+  bfc5406dbe7283ff 193,197-204,979-981
+mitmproxy/proxy/layers/websocket.py
+  bfc5406dbe7283ff 136-141,145-154,237-242
+CHANGELOG.md
+  bfc5406dbe7283ff 13-18
+mitmproxy/proxy/events.py
+  bfc5406dbe7283ff 133-142
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.3.4",
+  "base_commit_sha": "ad9ad60fd8170c3afd61fa6a069c0fe442d69d3a",
+  "prompts": {
+    "bfc5406dbe7283ff": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "7ecc469a-15fa-4bc0-b969-2f4cece7dcbc",
+        "model": "claude-opus-4-7"
+      },
+      "human_author": "George Larson",
+      "messages": [],
+      "total_additions": 0,
+      "total_deletions": 0,
+      "accepted_lines": 3493,
+      "overriden_lines": 0
+    }
+  }
+}
