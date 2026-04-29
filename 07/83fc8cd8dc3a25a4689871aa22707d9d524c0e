@@ -1,0 +1,51 @@
+temp/plans/questions/q-cypher-killinjected-arch/deepseek.log
+  bfc5406dbe7283ff 6
+temp/plans/questions/q-cypher-killinjected-arch/kimi.log
+  bfc5406dbe7283ff 2301-2330
+temp/plans/questions/q-cypher-killinjected-arch/qwen.md
+  bfc5406dbe7283ff 1-11
+temp/plans/questions/q-cypher-killinjected-arch/minimax.md
+  bfc5406dbe7283ff 1-35
+mitmproxy/proxy/layers/websocket.py
+  bfc5406dbe7283ff 136-141,145-154,237-242
+mitmproxy/proxy/events.py
+  bfc5406dbe7283ff 133-142
+mitmproxy/proxy/layers/udp.py
+  bfc5406dbe7283ff 92-97,99-106,143-148
+mitmproxy/proxy/layers/http/__init__.py
+  bfc5406dbe7283ff 193,197-204,979-981
+mitmproxy/proxy/server_hooks.py
+  bfc5406dbe7283ff 5,78-90
+test/mitmproxy/proxy/layers/http/test_http.py
+  bfc5406dbe7283ff 17,1349-1390
+test/mitmproxy/addons/test_proxyserver.py
+  bfc5406dbe7283ff 166-179
+mitmproxy/addons/proxyserver.py
+  bfc5406dbe7283ff 315,335-348
+mitmproxy/proxy/layers/tcp.py
+  bfc5406dbe7283ff 93-98,100-110,157-162
+CHANGELOG.md
+  bfc5406dbe7283ff 13-18
+mitmproxy/flow.py
+  bfc5406dbe7283ff 233-236,243-256
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.3.4",
+  "base_commit_sha": "0783fc8cd8dc3a25a4689871aa22707d9d524c0e",
+  "prompts": {
+    "bfc5406dbe7283ff": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "7ecc469a-15fa-4bc0-b969-2f4cece7dcbc",
+        "model": "claude-opus-4-7"
+      },
+      "human_author": "George Larson",
+      "messages": [],
+      "total_additions": 287,
+      "total_deletions": 25,
+      "accepted_lines": 276,
+      "overriden_lines": 0
+    }
+  }
+}
