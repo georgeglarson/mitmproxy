@@ -1,0 +1,25 @@
+test/mitmproxy/proxy/layers/http/test_http2.py
+  bfc5406dbe7283ff 24,1062-1108
+mitmproxy/proxy/layers/http/__init__.py
+  bfc5406dbe7283ff 204-212,991-1005
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.3.4",
+  "base_commit_sha": "02802e14bc7b539b52fbab43ad48d2dac2c4a720",
+  "prompts": {
+    "bfc5406dbe7283ff": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "7ecc469a-15fa-4bc0-b969-2f4cece7dcbc",
+        "model": "claude-opus-4-7"
+      },
+      "human_author": "George Larson",
+      "messages": [],
+      "total_additions": 131,
+      "total_deletions": 59,
+      "accepted_lines": 3212,
+      "overriden_lines": 0
+    }
+  }
+}
