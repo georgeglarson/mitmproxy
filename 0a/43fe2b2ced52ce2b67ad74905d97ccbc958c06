@@ -1,0 +1,32 @@
+test/mitmproxy/proxy/layers/test_websocket.py
+  s_65f8dcf272c532::t_55ee221e041b0a 505-534,538-539
+  s_65f8dcf272c532::t_01727ec914b4d4 9
+  s_65f8dcf272c532::t_596342847f57cf 535-537
+test/mitmproxy/proxy/layers/test_tcp.py
+  s_65f8dcf272c532::t_4ac12177af4f2d 205-207
+mitmproxy/proxy/layers/websocket.py
+  s_65f8dcf272c532::t_bd2b969311de57 137-154
+  s_65f8dcf272c532::t_284efc352661d3 12
+  s_65f8dcf272c532::t_f8f1e05b490dc9 217-223
+  s_65f8dcf272c532::t_269f5e0b871a0f 166
+test/mitmproxy/proxy/layers/test_udp.py
+  s_65f8dcf272c532::t_efccafa60ae9e0 183-185
+CHANGELOG.md
+  s_65f8dcf272c532::t_c0170aaf7f0be0 18-20
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.15",
+  "base_commit_sha": "0a43fe2b2ced52ce2b67ad74905d97ccbc958c06",
+  "prompts": {},
+  "sessions": {
+    "s_65f8dcf272c532": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "3ab4f990-0aed-4537-a551-bdeec23883d4",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "George Larson <george.g.larson@gmail.com>"
+    }
+  }
+}
