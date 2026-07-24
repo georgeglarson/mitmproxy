@@ -1,0 +1,35 @@
+CHANGELOG.md
+  s_227fa74f6e212f::t_3d9b05b6f6f75c 19-24
+mitmproxy/proxy/layers/udp.py
+  s_227fa74f6e212f::t_58a4febb90e7db 79-84
+  s_227fa74f6e212f::t_35914c29f9a4bf 108,110-113,117,119-120
+  s_227fa74f6e212f::t_dab6beaa347637 109,114,118
+  s_227fa74f6e212f::t_55039874cec664 6
+test/mitmproxy/proxy/layers/test_udp.py
+  s_227fa74f6e212f::t_6705f7033ce736 188-212
+test/mitmproxy/proxy/layers/test_tcp.py
+  s_227fa74f6e212f::t_6705f7033ce736 210-234
+test/mitmproxy/addons/test_proxyserver.py
+  s_227fa74f6e212f::t_36956faa404a97 35
+  s_227fa74f6e212f::t_4920fa9204e3e0 421-507
+mitmproxy/addons/proxyserver.py
+  s_227fa74f6e212f::t_c12178a9516b62 316-321
+mitmproxy/proxy/layers/tcp.py
+  s_227fa74f6e212f::t_576e808f2bc6e6 79-84
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.16",
+  "base_commit_sha": "ba3d2ef4682c40cb88d9a41d53635134d9f98f62",
+  "prompts": {},
+  "sessions": {
+    "s_227fa74f6e212f": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "ff25ddec-b8fa-48c5-b2aa-e37d6ed84379",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "George Larson <george.g.larson@gmail.com>"
+    }
+  }
+}
